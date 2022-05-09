@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
-        <exec.mainClass>com.mycompany.designproject.DesignProject</exec.mainClass>
+        <exec.mainClass>pruebas.NewMain</exec.mainClass>
     </properties>
     <dependencies>
 
